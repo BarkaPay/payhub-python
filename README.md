@@ -15,8 +15,10 @@ Python **3.9+**.
 ## Install
 
 ```bash
-pip install payhub
+pip install barkapay-payhub
 ```
+
+The distribution is `barkapay-payhub`; you import it as `payhub`.
 
 ## Quick start
 

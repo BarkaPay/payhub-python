@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "payhub"
-description = "Official Python client for the PayHub payments API — mobile money & crypto, one API across countries."
+name = "barkapay-payhub"
+description = "Official Python client for the PayHub payments API — mobile money & crypto, one API across countries. Import as `payhub`."
 readme = "README.md"
 requires-python = ">=3.9"
 license = "MIT"
@@ -12,7 +12,7 @@ license-files = ["LICENSE"]
 authors = [{ name = "BarkaPay (PayHub)", email = "developers@payhub.africa" }]
 keywords = ["payhub", "barkapay", "payments", "mobile-money", "fintech", "africa"]
 classifiers = [
-    "Development Status :: 4 - Beta",
+    "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
